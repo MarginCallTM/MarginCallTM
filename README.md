@@ -17,7 +17,11 @@ I'm MarginCallTM — a Web3 enthusiast and aspiring developer driven by curiosit
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
+![Move](https://img.shields.io/badge/Move-FF4C00?style=for-the-badge&logo=move&logoColor=white)
 
             
 🌱 I'm focused on:
