@@ -14,10 +14,12 @@ I'm MarginCallTM — a Web3 enthusiast and aspiring developer driven by curiosit
 - Smart Contracts: `Solidity` `Move`
 - Web3 toolkits & SDKs
 
-[<img> widht="25px" src=<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /></img>
-            
-          
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
 
+            
 🌱 I'm focused on:
 - Building dApps and DeFi protocols
 - Developing smart contracts securely
