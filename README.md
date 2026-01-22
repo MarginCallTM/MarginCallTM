@@ -13,7 +13,7 @@ I approach development with a problem-solving mindset, emphasizing **algorithmic
 while (learning) {
     master_low_level_programming();
     build_web3_applications();
-    Build clean, accessible, and responsive user interfaces();
+    Build_clean_accessible_responsive_user_interfaces();
 }
 ```
 
