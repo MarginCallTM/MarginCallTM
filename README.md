@@ -5,6 +5,18 @@ Software Engineering Student @ 42 School | Lyon, France 🇫🇷
 
 I approach development with a problem-solving mindset, emphasizing **algorithmic thinking, performance, and code correctness**. My long-term objective is to design and ship robust systems, from low-level components to full-stack and blockchain-based applications.
 
+
+> *“First make it work. Then make it right. Then make it fast.”*
+## 🔥 Current Focus
+
+```c
+while (learning) {
+    master_low_level_programming();
+    build_web3_applications();
+    create_beautiful_frontends();
+}
+```
+
 ---
 
 ## 🧠 Current Focus
@@ -87,28 +99,10 @@ I deliberately spend time:
 
 ---
 
-## 🚀 Roadmap
-
-- Strengthen algorithmic intuition
-- Improve system-level understanding
-- Advance in Rust for backend development
-- Move toward production-grade Web3 applications
-- Build projects that demonstrate end-to-end ownership
-
----
 
 ## 📫 Contact
 
 - GitHub: **@your-username**
 - Open to technical discussions, feedback, and collaboration
 
-> *“First make it work. Then make it right. Then make it fast.”*
-## 🔥 Current Focus
 
-```c
-while (learning) {
-    master_low_level_programming();
-    build_web3_applications();
-    create_beautiful_frontends();
-}
-```
