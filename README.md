@@ -3,9 +3,6 @@
 Software Engineering Student @ 42 School | Lyon, France 🇫🇷
 
 
-I approach development with a problem-solving mindset, emphasizing **algorithmic thinking, performance, and code correctness**. My long-term objective is to design and ship robust systems, from low-level components to full-stack and blockchain-based applications.
-
-
 > *“First make it work. Then make it right. Then make it fast.”*
 ## 🔥 Current Focus
 
