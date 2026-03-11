@@ -4,7 +4,7 @@ Software Engineering Student @ 42 School | Lyon, France 🇫🇷
 
 
 > *“First make it work. Then make it right. Then make it fast.”*
-## 🔥 Current Focus
+## Current Focus
 
 ```c
 while (learning) {
